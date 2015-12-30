@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spring Boot with MongoDB!
+title: Spring Boot with MongoDB
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
