@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TamilNadu Engineering Colleges
+title: Tamil Nadu Engineering Colleges
 ---
 
 Want to have a quick look the the engineering colleges in Tamil Nadu? 
