@@ -1,5 +1,4 @@
-
 ---
 layout: post
-title: Spring Boot with MongoDB
+title: You're up and running!
 ---
